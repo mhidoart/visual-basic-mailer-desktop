@@ -1,0 +1,61 @@
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\bin\Debug\EMAILING.exe.config
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\bin\Debug\EMAILING.exe
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\bin\Debug\EMAILING.pdb
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\bin\Debug\EMAILING.xml
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.emailing.resources
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.home.resources
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.Resources.resources
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.vbproj.GenerateResource.Cache
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.exe
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.xml
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.pdb
+C:\Users\ZRS\Desktop\HIBAMHIDO\EMAILING\EMAILING\obj\Debug\EMAILING.vbproj.ResolveComReference.cache
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\bin\Debug\EMAILING.exe.config
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.vbproj.ResolveComReference.cache
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.exe
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.xml
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.pdb
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\bin\Debug\EMAILING.exe
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\bin\Debug\EMAILING.pdb
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\bin\Debug\EMAILING.xml
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.emailing.resources
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.Envoyer_un_Email.resources
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.home.resources
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.Resources.resources
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.vbproj.GenerateResource.Cache
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.Gestion_Email.resources
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.envoie_a_tous.resources
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\bin\Debug\EMAILING.exe.manifest
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\bin\Debug\EMAILING.application
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.exe.manifest
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.application
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.loading.resources
+C:\Users\ZRS\Desktop\EMAILING\EMAILING\obj\Debug\EMAILING.sauvegardes.resources
+D:\Divers\My Projects\EMAILING\EMAILING\bin\Debug\EMAILING.exe.config
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.vbproj.ResolveComReference.cache
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.exe
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.xml
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.pdb
+D:\Divers\My Projects\EMAILING\EMAILING\bin\Debug\EMAILING.exe.manifest
+D:\Divers\My Projects\EMAILING\EMAILING\bin\Debug\EMAILING.application
+D:\Divers\My Projects\EMAILING\EMAILING\bin\Debug\EMAILING.exe
+D:\Divers\My Projects\EMAILING\EMAILING\bin\Debug\EMAILING.pdb
+D:\Divers\My Projects\EMAILING\EMAILING\bin\Debug\EMAILING.xml
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.emailing.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.envoie_a_tous.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.Envoyer_un_Email.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.Gestion_Email.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.home.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.loading.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.Resources.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.sauvegardes.resources
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.vbproj.GenerateResource.Cache
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.exe.manifest
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.application
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.vbprojAssemblyReference.cache
+D:\Divers\My Projects\EMAILING\EMAILING\obj\Debug\EMAILING.vbproj.CoreCompileInputs.cache
+D:\Divers\My Projects\EMAILING (VB)\EMAILING - code\EMAILING\bin\Debug\EMAILING.exe.config
+D:\Divers\My Projects\EMAILING (VB)\EMAILING - code\EMAILING\obj\Debug\EMAILING.vbproj.ResolveComReference.cache
+D:\Divers\My Projects\EMAILING (VB)\EMAILING - code\EMAILING\obj\Debug\EMAILING.exe
+D:\Divers\My Projects\EMAILING (VB)\EMAILING - code\EMAILING\obj\Debug\EMAILING.xml
+D:\Divers\My Projects\EMAILING (VB)\EMAILING - code\EMAILING\obj\Debug\EMAILING.pdb
